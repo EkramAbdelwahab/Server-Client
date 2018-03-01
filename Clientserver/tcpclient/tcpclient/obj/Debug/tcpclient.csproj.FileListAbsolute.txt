@@ -1,0 +1,8 @@
+F:\second term\Security\tcpclient\tcpclient\bin\Debug\tcpclient.exe.config
+F:\second term\Security\tcpclient\tcpclient\bin\Debug\tcpclient.exe
+F:\second term\Security\tcpclient\tcpclient\bin\Debug\tcpclient.pdb
+F:\second term\Security\tcpclient\tcpclient\obj\Debug\tcpclient.exe
+F:\second term\Security\tcpclient\tcpclient\obj\Debug\tcpclient.pdb
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpclient\tcpclient\bin\Debug\tcpclient.exe.config
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpclient\tcpclient\obj\Debug\tcpclient.exe
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpclient\tcpclient\obj\Debug\tcpclient.pdb

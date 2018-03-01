@@ -1,0 +1,10 @@
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\obj\x86\Debug\Recever.csprojResolveAssemblyReference.cache
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\obj\x86\Debug\Recever.csproj.GenerateResource.Cache
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Maher Ezzat\Desktop\Recever\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\year4 2nd semester\security\New folder\security project\pro\Recever\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\year4 2nd semester\security\New folder\security project\pro\Recever\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb

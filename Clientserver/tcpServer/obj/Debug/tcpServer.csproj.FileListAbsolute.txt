@@ -1,0 +1,18 @@
+F:\second term\Security\tcpclient\tcpServer\bin\Debug\tcpServer.exe.config
+F:\second term\Security\tcpclient\tcpServer\bin\Debug\tcpServer.exe
+F:\second term\Security\tcpclient\tcpServer\bin\Debug\tcpServer.pdb
+F:\second term\Security\tcpclient\tcpServer\obj\Debug\tcpServer.csprojResolveAssemblyReference.cache
+F:\second term\Security\tcpclient\tcpServer\obj\Debug\tcpServer.exe
+F:\second term\Security\tcpclient\tcpServer\obj\Debug\tcpServer.pdb
+F:\second term\Security\tcpServer\bin\Debug\tcpServer.exe.config
+F:\second term\Security\tcpServer\obj\Debug\tcpServer.exe
+F:\second term\Security\tcpServer\obj\Debug\tcpServer.pdb
+F:\second term\Security\tcpServer\bin\Debug\tcpServer.exe
+F:\second term\Security\tcpServer\bin\Debug\tcpServer.pdb
+F:\second term\Security\tcpServer\obj\Debug\tcpServer.csprojResolveAssemblyReference.cache
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpServer\bin\Debug\tcpServer.exe.config
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpServer\obj\Debug\tcpServer.exe
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpServer\obj\Debug\tcpServer.pdb
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpServer\bin\Debug\tcpServer.exe
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpServer\bin\Debug\tcpServer.pdb
+D:\year4 2nd semester\security\New folder\security project\Clientserver\tcpServer\obj\Debug\tcpServer.csprojResolveAssemblyReference.cache
